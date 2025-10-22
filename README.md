@@ -29,7 +29,7 @@ This app was created for a coursework task to demonstrate basic React Native com
   - Dish name  
   - Description  
   - Course selection (Starters, Mains, or Dessert)  
-  - Price (in Rands)
+  - Price
 
 ### 🏠 Home Screen
 - Displays all dishes added by the chef.
@@ -62,4 +62,12 @@ Layout avoids common FlatList and ScrollView nesting issues for smooth scrolling
 
 
 ## 📦 Screen Shots
+<img width="357" height="666" alt="Screenshot 2025-10-22 174915" src="https://github.com/user-attachments/assets/0d8e1b0e-87c6-47bf-9f5d-052b5ba22709" />
+<img width="357" height="666" alt="Screenshot 2025-10-22 174929" src="https://github.com/user-attachments/assets/7cc91217-8355-4f80-a157-9a3cad6fe068" />
+<img width="357" height="668" alt="Screenshot 2025-10-22 175044" src="https://github.com/user-attachments/assets/6050ed79-4b81-4d0e-9757-f58be9cc592c" />
+<img width="359" height="668" alt="Screenshot 2025-10-22 175053" src="https://github.com/user-attachments/assets/d233dae5-3e64-4b6f-86b3-80fab83de0a4" />
+
+
+
+
 
