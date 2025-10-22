@@ -50,6 +50,7 @@ This app was created for a coursework task to demonstrate basic React Native com
 ### 1. Clone or Create the Project
 If starting fresh, create a new Expo app:
 npx create-expo-app chef-menu-app -t expo-template-blank-typescript
+
 npm install @react-native-picker/picker
 
 ## 🎨 Design Notes
