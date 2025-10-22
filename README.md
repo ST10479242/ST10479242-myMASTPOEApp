@@ -9,7 +9,10 @@ Purpose: Mobile App Scripting POE — Part 2
 A simple and elegant React Native app (built with Expo and TypeScript) that allows a chef to create, view, and manage their restaurant menu dynamically.
 
 ---
+## Links
 
+
+---
 ## 📱 Overview
 
 The **Chef’s Menu Creator** helps chefs quickly add and organize dishes into different courses such as **Starters**, **Mains**, and **Desserts**.  
@@ -57,20 +60,6 @@ Clean spacing and rounded cards for a friendly, aesthetic appearance.
 
 Layout avoids common FlatList and ScrollView nesting issues for smooth scrolling and dropdowns.
 
-## 🚫 Known Limitations
 
-Menu data is not stored permanently — items disappear when the app reloads.
+## 📦 Screen Shots
 
-No validation or error alerts beyond basic empty-field checks.
-
-Designed for mobile screens only (best viewed in Expo Go).
-
-## 📦 Future Enhancements (Optional)
-
-Persistent data using AsyncStorage or SQLite.
-
-Group items under collapsible “Starters / Mains / Desserts” sections.
-
-Add dish images and price filters.
-
-Enable dark/light mode theme switching.
