@@ -1,5 +1,11 @@
-# 🍽️ Chef’s Menu Creator App
+# 🧑‍💻 Developer
 
+Author: Aneeq Harris ST10479242
+Year: 2025
+Framework: Expo (React Native + TypeScript)
+Purpose: Mobile App Scripting POE — Part 2
+
+# 🍽️ Chef’s Menu Creator App
 A simple and elegant React Native app (built with Expo and TypeScript) that allows a chef to create, view, and manage their restaurant menu dynamically.
 
 ---
@@ -40,7 +46,6 @@ This app was created for a coursework task to demonstrate basic React Native com
 
 ### 1. Clone or Create the Project
 If starting fresh, create a new Expo app:
-```bash
 npx create-expo-app chef-menu-app -t expo-template-blank-typescript
 npm install @react-native-picker/picker
 
@@ -69,10 +74,3 @@ Group items under collapsible “Starters / Mains / Desserts” sections.
 Add dish images and price filters.
 
 Enable dark/light mode theme switching.
-
-## 🧑‍💻 Developer
-
-Author: Aneeq Harris
-Year: 2025
-Framework: Expo (React Native + TypeScript)
-Purpose: Mobile App Scripting POE — Part 2
