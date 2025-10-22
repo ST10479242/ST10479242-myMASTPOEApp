@@ -5,7 +5,7 @@ Year: 2025
 Framework: Expo (React Native + TypeScript)
 Purpose: Mobile App Scripting POE — Part 2
 
-# 🍽️ Chef’s Menu Creator App
+# 🍽️ Christoffel's Menu App
 A simple and elegant React Native app (built with Expo and TypeScript) that allows a chef to create, view, and manage their restaurant menu dynamically.
 
 ---
@@ -16,7 +16,7 @@ A simple and elegant React Native app (built with Expo and TypeScript) that allo
 ---
 ## 📱 Overview
 
-The **Chef’s Menu Creator** helps chefs quickly add and organize dishes into different courses such as **Starters**, **Mains**, and **Desserts**.  
+The **Christoffel's Menu App** helps chefs quickly add and organize dishes into different courses such as **Starters**, **Mains**, and **Desserts**.  
 All data is stored in memory during the app session — no hardcoded values and no permanent storage needed.
 
 This app was created for a coursework task to demonstrate basic React Native component usage, state management, and user interaction.
