@@ -9,8 +9,9 @@ Purpose: Mobile App Scripting POE — Part 2
 A simple and elegant React Native app (built with Expo and TypeScript) that allows a chef to create, view, and manage their restaurant menu dynamically.
 
 ---
-## Links
-
+# Links
+## Youtube link https://youtube.com/shorts/M-dNjUuAOQE
+## Github link
 
 ---
 ## 📱 Overview
